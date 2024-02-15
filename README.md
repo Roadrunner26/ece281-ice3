@@ -12,6 +12,10 @@ Tested on Vivado 2018.2.
 
 ## GitHub Actions Testbench
 
+## Documentation
+## No help received. Holy cow this took me too long.
+![Alt text](../../OneDrive%20-%20afacademy.af.edu/Pictures/Screenshots/Screenshot%202024-02-14%20174558.png)
+
 You can *optionally* enable Actions on your fork.
 
 The workflow uses the [setup-ghdl-ci](https://github.com/ghdl/setup-ghdl-ci) GitHub action
